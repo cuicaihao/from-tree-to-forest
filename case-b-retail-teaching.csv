@@ -1,0 +1,9 @@
+record_id,sku_id,store_id,business_date,weekday,promo_type,discount,lag7,y
+D1,SKU00,ST0,2025-01-13,0,none,0,10,10
+D2,SKU01,ST0,2025-01-13,0,none,0,15,14
+D3,SKU02,ST0,2025-01-13,0,member,10,12,18
+D4,SKU03,ST0,2025-01-13,0,member,10,20,26
+D5,SKU04,ST0,2025-01-13,0,campaign,20,15,40
+D6,SKU05,ST0,2025-01-13,0,campaign,30,35,60
+D7,SKU06,ST0,2025-01-13,0,campaign,40,40,92
+D8,SKU07,ST0,2025-01-13,0,campaign,50,60,140

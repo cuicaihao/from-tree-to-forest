@@ -1,0 +1,9 @@
+record_id,amount,distance,merchant_type,merchant_id,y
+S1,30,2,retail,M00,0
+S2,80,5,retail,M01,0
+S3,150,10,retail,M02,0
+S4,250,20,retail,M03,0
+S5,450,8,digital,M04,1
+S6,1200,50,digital,M05,1
+S7,3000,120,digital,M06,1
+S8,80,300,retail,M07,1
